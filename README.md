@@ -1,8 +1,6 @@
 
 
-```bash
-npx degit xyflow/vite-react-flow-template your-app-name
-```
+Pls run the quick demo by:
 
 Then,
 
